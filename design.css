@@ -1,0 +1,29 @@
+h1,p{
+  text-align:center;
+}
+#block1{
+   background-color:#efeff0;
+   height:280px;  
+}
+header .row{
+  display:flex;
+  align-items: center;
+}
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+header p {
+  padding: 0 20px;
+  margin-right: 0;
+  font-size:25px;
+  padding-right:30px;
+}
+header p:hover {
+ border-radius:2px;
+ background-color:#efeff0
+}
